@@ -1,7 +1,7 @@
 {
-    "name": "SpamProtectionRobot",
+    "name": "Spam Protection Bot",
     "description": "Anti Spam/NSFW Telegram Bot Written In Python With Pyrogram.",
-    "repository": "https://github.com/thehamkercat/SpamProtectionRobot",
+    "repository": "https://github.com/King-Amda/SpamProtectionRobot",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
     "keywords": [
     "python3",
